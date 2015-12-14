@@ -60,8 +60,10 @@ class ChemieActivity : AppCompatActivity() {
             true
 
         })
-        switchScreen(PseListFragment())
-    }
+//Untested, no computer around. 
+        //switchScreen(PseListFragment())
+supportFragmentManager.beginTransaction().replace (PseListFragment ()).commit ()  
+ }
 
 
     override fun onPostCreate(savedInstanceState: Bundle?) {
