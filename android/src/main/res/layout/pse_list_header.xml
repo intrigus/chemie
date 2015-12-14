@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="fill_parent"
+    android:layout_height="match_parent"
+    android:orientation="horizontal"
+    android:paddingEnd="16dp"
+    android:paddingLeft="16dp"
+    android:paddingRight="16dp"
+    android:paddingStart="16dp">
+
+    <TextView
+        android:id="@+id/solid"
+        android:layout_width="0dp"
+        android:layout_height="wrap_content"
+        android:layout_weight="1"
+        android:text="Solid"
+        android:textAppearance="?android:attr/textAppearanceLarge"
+        android:textColor="@color/solid_color" />
+
+    <TextView
+        android:id="@+id/liquid"
+        android:layout_width="0dp"
+        android:layout_height="wrap_content"
+        android:layout_weight="1"
+        android:text="Liquid"
+        android:textAppearance="?android:attr/textAppearanceLarge"
+        android:textColor="@color/liquid_color" />
+
+    <TextView
+
+        android:id="@+id/gaseous"
+        android:layout_width="0dp"
+        android:layout_height="wrap_content"
+        android:layout_weight="1"
+        android:text="Gaseous"
+        android:textAppearance="?android:attr/textAppearanceLarge"
+        android:textColor="@color/gaseous_color" />
+</LinearLayout>
