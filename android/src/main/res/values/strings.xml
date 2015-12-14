@@ -1,3 +1,32 @@
 <resources>
     <string name="app_name">Chemie App</string>
+    <string name="about_text">
+        This app was created by <a href="http://www.twitter.com/intrigus_">intrigus</a>.
+        \n
+        You can find the source on <a href="http://www.github.com/intrigus/chemie-app">github</a>.
+    </string>
+    <string name="licenses" formatted="false">
+        <a href="https://en.wikipedia.org/wiki/File:Lithium_paraffin.jpg">https://en.wikipedia.org/wiki/File:Lithium_paraffin.jpg</a>. \n \n
+<a href="https://en.wikipedia.org/wiki/File:Boron_R105.jpg">https://en.wikipedia.org/wiki/File:Boron_R105.jpg</a>. \n \n
+<a href="https://commons.wikimedia.org/wiki/File:Liquid_Oxygen.png">https://commons.wikimedia.org/wiki/File:Liquid_Oxygen.png</a>. \n \n
+<a href="https://de.wikipedia.org/wiki/Datei:Aluminium-4.jpg">https://de.wikipedia.org/wiki/Datei:Aluminium-4.jpg</a>. \n \n
+<a href="https://de.wikipedia.org/wiki/Datei:SiliconCroda.jpg">https://de.wikipedia.org/wiki/Datei:SiliconCroda.jpg</a>. \n \n
+<a href="https://de.wikipedia.org/wiki/Datei:Sulfur-sample.jpg">https://de.wikipedia.org/wiki/Datei:Sulfur-sample.jpg</a>. \n \n
+<a href="https://en.wikipedia.org/wiki/File:Potassium-2.jpg">https://en.wikipedia.org/wiki/File:Potassium-2.jpg</a>. \n \n
+<a href="https://de.wikipedia.org/wiki/Datei:Calcium_unter_Argon_Schutzgasatmosph%C3%A4re.jpg">https://de.wikipedia.org/wiki/Datei:Calcium_unter_Argon_Schutzgasatmosph%C3%A4re.jpg</a>. \n \n
+<a href="https://de.wikipedia.org/wiki/Datei:Copper_(29_Cu).jpg">https://de.wikipedia.org/wiki/Datei:Copper_(29_Cu).jpg</a>. \n \n
+<a href="https://de.wikipedia.org/wiki/Datei:Polycrystalline-germanium.jpg">https://de.wikipedia.org/wiki/Datei:Polycrystalline-germanium.jpg</a>. \n \n
+<a href="https://en.wikipedia.org/wiki/File:Rb5.JPG">https://en.wikipedia.org/wiki/File:Rb5.JPG</a>. \n \n
+<a href="https://commons.wikimedia.org/wiki/File:Palladium_(46_Pd).jpg">https://commons.wikimedia.org/wiki/File:Palladium_(46_Pd).jpg</a>. \n \n
+<a href="https://de.wikipedia.org/wiki/Datei:Antimony-4.jpg">https://de.wikipedia.org/wiki/Datei:Antimony-4.jpg</a>. \n \n
+<a href="https://de.wikipedia.org/wiki/Datei:Tellurium2.jpg">https://de.wikipedia.org/wiki/Datei:Tellurium2.jpg</a>. \n \n
+<a href="https://de.wikipedia.org/wiki/Datei:Barium_unter_Argon_Schutzgas_Atmosph%C3%A4re.jpg">https://de.wikipedia.org/wiki/Datei:Barium_unter_Argon_Schutzgas_Atmosph%C3%A4re.jpg</a>. \n \n
+<a href="https://de.wikipedia.org/wiki/Datei:Lanthanum-2.jpg">https://de.wikipedia.org/wiki/Datei:Lanthanum-2.jpg</a>. \n \n
+<a href="https://de.wikipedia.org/wiki/Datei:Praseodymium.jpg">https://de.wikipedia.org/wiki/Datei:Praseodymium.jpg</a>. \n \n
+<a href="https://de.wikipedia.org/wiki/Datei:Neodymium2.jpg">https://de.wikipedia.org/wiki/Datei:Neodymium2.jpg</a>. \n \n
+<a href="https://de.wikipedia.org/wiki/Datei:Samarium-2.jpg">https://de.wikipedia.org/wiki/Datei:Samarium-2.jpg</a>. \n \n
+<a href="https://en.wikipedia.org/wiki/File:HEUraniumC.jpg">https://en.wikipedia.org/wiki/File:HEUraniumC.jpg</a>.
+    </string>
+    <string name="periodic_table">Periodic Table</string>
+    <string name="about">About</string>
 </resources>

@@ -2,4 +2,7 @@
 <resources>
     <color name="ColorPrimary">#FF5722</color>
     <color name="ColorPrimaryDark">#E64A19</color>
+    <color name="gaseous_color">#FE000D</color>
+    <color name="liquid_color">#0000FE</color>
+    <color name="solid_color">#000000</color>
 </resources>

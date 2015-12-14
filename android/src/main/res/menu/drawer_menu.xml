@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <group android:id="@+id/main_menu_group" android:checkableBehavior="single">
+        <!--<item
+            android:id="@+id/chemical_balancer"
+            android:checked="true"
+            android:title="Chemical Balancer" />-->
+        <item
+            android:id="@+id/periodic_table"
+            android:checked="false"
+            android:title="@string/periodic_table" />
+    </group>
+
+    <group android:id="@+id/other_menu_group" android:checkableBehavior="single">
+        <item
+            android:id="@+id/about_menu_item"
+            android:checked="false"
+            android:title="@string/about" />
+    </group>
+</menu>

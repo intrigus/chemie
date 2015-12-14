@@ -29,8 +29,8 @@ android {
     }
 
     defaultConfig {
-        applicationId "com.mycompany.fortune.android"
-        minSdkVersion 9
+        applicationId "de.intrigus.chem.android"
+        minSdkVersion 11
         targetSdkVersion 23
         versionCode 1
         versionName "1.0"
@@ -51,6 +51,10 @@ android {
 dependencies {
     compile fileTree(dir: 'libs', include: ['*.jar'])
     compile 'com.android.support:appcompat-v7:23+'
+    compile 'com.android.support:design:23+'
     compile 'org.jetbrains.kotlin:kotlin-stdlib:$kotlin_version'
+    compile 'com.squareup.picasso:picasso:2.5.2'
+    compile 'com.bignerdranch.android:expandablerecyclerview:2.0.4'
+    compile 'com.bartoszlipinski.recyclerviewheader:library:1.2.0'
     compile project(':core')
 }

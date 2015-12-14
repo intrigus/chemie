@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical"
+        android:paddingLeft="@dimen/activity_horizontal_margin"
+        android:paddingRight="@dimen/activity_horizontal_margin">
+
+        <TextView
+            android:id="@+id/about_app_text"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center_horizontal"
+            android:lineSpacingExtra="10dp"
+            android:text="@string/about_text"
+            android:textAppearance="?android:attr/textAppearanceMedium" />
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:orientation="vertical">
+
+            <Button
+                android:id="@+id/show_licenses"
+                android:layout_width="fill_parent"
+                android:layout_height="wrap_content"
+                android:layout_gravity="top"
+                android:text="Show OSS licenses" />
+
+            <TextView
+                android:id="@+id/licenses"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_gravity="top|center_horizontal"
+                android:text="@string/licenses"
+                android:textAppearance="?android:attr/textAppearanceMedium"
+                android:visibility="gone" />
+        </LinearLayout>
+    </LinearLayout>
+</ScrollView>
